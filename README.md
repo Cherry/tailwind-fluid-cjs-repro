@@ -1,5 +1,7 @@
 # Issues using Fluid programatically
 
+Issue link: https://github.com/barvian/fluid-tailwind/issues/39
+
 We have a workflow where we use Tailwind to generate a static "theme" output using `resolveConfig`. An example of this can be seen in the `generate-theme.js` file.
 
 - With Fluid disabled, this works without issue
